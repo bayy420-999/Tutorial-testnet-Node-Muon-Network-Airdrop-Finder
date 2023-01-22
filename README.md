@@ -10,9 +10,10 @@
 
 ## Referensi
 
-* [Dokumen resmi](https://www.wormholes.com/docs/install/run/index.html)
-* [Server discord](https://discord.gg/gQBKvgffp7)
-* [Form pendaftaran validator](https://forms.gle/pqkKWLxdztXszgyK6)
+* [Dokumen resmi](https://docs.muon.net/muon-network/muon-nodes/joining-the-testnet-alice)
+* [Server discord](https://discord.gg/muon)
+* [Node dashboard](https://alice.muon.net/join/)
+* [tBNB (BNB Testnet faucet)](https://testnet.bnbchain.org/faucet-smart)
 
 ## Spesifikasi Software & Hardware
 
